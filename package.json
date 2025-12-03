@@ -38,7 +38,7 @@
    },
    "dependencies": {
       "bufferutil": "~4.0",
-      "express": "~5.1",
+      "express": "~5.2",
       "jshint": "~2.13",
       "ws": "~8.18"
    },
@@ -46,6 +46,6 @@
       "@fortawesome/fontawesome-free": "~7.1",
       "dna-engine": "~3.3",
       "web-ignition": "~2.4",
-      "w3c-html-validator": "~1.9"
+      "w3c-html-validator": "~2.0"
    }
 }
