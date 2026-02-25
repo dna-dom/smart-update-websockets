@@ -37,15 +37,15 @@
       "test": "html-validator web"
    },
    "dependencies": {
-      "bufferutil": "~4.0",
+      "bufferutil": "~4.1",
       "express": "~5.2",
       "jshint": "~2.13",
-      "ws": "~8.18"
+      "ws": "~8.19"
    },
    "devDependencies": {
-      "@fortawesome/fontawesome-free": "~7.1",
+      "@fortawesome/fontawesome-free": "~7.2",
       "dna-engine": "~3.3",
-      "web-ignition": "~2.4",
-      "w3c-html-validator": "~2.0"
+      "web-ignition": "~2.5",
+      "w3c-html-validator": "~2.2"
    }
 }
