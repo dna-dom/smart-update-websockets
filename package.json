@@ -1,6 +1,6 @@
 {
    "name": "smart-update-websockets",
-   "description": "Example WebSockets server and client showing throttled live updates using dna-engine",
+   "description": "Example WebSockets server and client showing throttled live updates using dna-dom",
    "version": "1.0.0",
    "license": "MIT",
    "type": "module",
@@ -8,15 +8,15 @@
    "exports": "./server.js",
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/dna-engine/smart-update-websockets.git"
+      "url": "git+https://github.com/dna-dom/smart-update-websockets.git"
    },
-   "homepage": "https://github.com/dna-engine/smart-update-websockets",
-   "bugs": "https://github.com/dna-engine/smart-update-websockets/issues",
+   "homepage": "https://github.com/dna-dom/smart-update-websockets",
+   "bugs": "https://github.com/dna-dom/smart-update-websockets/issues",
    "author": "Center Key (https://centerkey.com)",
    "keywords": [
       "node",
       "websockets",
-      "dna-engine",
+      "dna-dom",
       "javascript"
    ],
    "jshintConfig": {
@@ -44,7 +44,7 @@
    },
    "devDependencies": {
       "@fortawesome/fontawesome-free": "~7.2",
-      "dna-engine": "~3.3",
+      "dna-dom": "~3.3",
       "web-ignition": "~2.5",
       "w3c-html-validator": "~2.2"
    }

@@ -1,15 +1,15 @@
 # smart-update-websockets
-<img src=https://dna-engine.org/graphics/dna-logo.png align=right width=160 alt=logo>
+<img src=https://dna-dom.org/graphics/dna-logo.png align=right width=160 alt=logo>
 
-_Example WebSockets server and client showing throttled live updates using dna-engine_
+_Example WebSockets server and client showing throttled live updates using dna-dom_
 
-[![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://dna-engine.org/license)
-[![Build](https://github.com/dna-engine/smart-update-websockets/actions/workflows/run-spec-on-push.yaml/badge.svg)](https://github.com/dna-engine/smart-update-websockets/actions/workflows/run-spec-on-push.yaml)
+[![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://dna-dom.org/license)
+[![Build](https://github.com/dna-dom/smart-update-websockets/actions/workflows/run-spec-on-push.yaml/badge.svg)](https://github.com/dna-dom/smart-update-websockets/actions/workflows/run-spec-on-push.yaml)
 
 Try it out:
 
 1. Install Node.js from: https://nodejs.org
-1. `git clone https://github.com/dna-engine/smart-update-websockets.git`
+1. `git clone https://github.com/dna-dom/smart-update-websockets.git`
 1. `cd smart-update-websockets`
 1. `npm install`
 1. `npm start`
@@ -18,7 +18,7 @@ Try it out:
 ![screenshot](screenshot.png)
 
 Smart Update documentation:<br>
-[dna-engine.org/docs](https://dna-engine.org/docs/#event-smart)
+[dna-dom.org/docs](https://dna-dom.org/docs/#event-smart)
 
 ---
 [MIT License](LICENSE.txt)
