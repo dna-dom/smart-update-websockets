@@ -40,7 +40,7 @@
       "bufferutil": "~4.1",
       "express": "~5.2",
       "jshint": "~2.13",
-      "ws": "~8.19"
+      "ws": "~8.20"
    },
    "devDependencies": {
       "@fortawesome/fontawesome-free": "~7.2",
